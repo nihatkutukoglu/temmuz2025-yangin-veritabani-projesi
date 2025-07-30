@@ -19,6 +19,7 @@ Causes: Yangınların olası nedenlerini (ihmal, kundaklama, yıldırım vb.) st
 Fires: Her bir yangın olayının temel detaylarını (başlangıç/bitiş zamanı, durumu, etkilenen alan, arazi tipi, ilk rapor kaynağı ve detaylı açıklaması) ve Locations ile Causes tablolarıyla ilişkilerini içerir.
 
 
+
 Kurulum ve Veri Girişi
 Veritabanını Oluşturma:
 
