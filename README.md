@@ -1,5 +1,5 @@
  # YANGIN VERİTABANI PROJESİ
-Bu depo, Türkiye'deki yangın olaylarının verilerini depolamak, yönetmek ve analiz etmek için tasarlanmış basit bir SQL veritabanı projesidir. Proje, yangınların konumları, nedenleri, etkilenen alanları ve zaman içindeki eğilimleri gibi bilgileri içerir.
+Bu depo, Türkiye'de 2025 Temmuz Ayındaki yangın olaylarının verilerini depolamak, yönetmek ve analiz etmek için tasarlanmış basit bir SQL veritabanı projesidir. Proje, yangınların konumları, nedenleri, etkilenen alanları ve zaman içindeki eğilimleri gibi bilgileri içerir.
 
 ## 🎯 PROJE AMACI
 Bu projenin temel amacı, SQL veritabanı tasarımı, veri girişi ve karmaşık sorgulama becerilerini pratik ederek pekiştirmektir. Gerçek dünya senaryosuna dayalı yangın verileri üzerinden çeşitli analizler yaparak veri analizi yeteneklerini geliştirmek hedeflenmiştir.
