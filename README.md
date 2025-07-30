@@ -18,8 +18,6 @@ Causes: Yangınların olası nedenlerini (ihmal, kundaklama, yıldırım vb.) st
 
 Fires: Her bir yangın olayının temel detaylarını (başlangıç/bitiş zamanı, durumu, etkilenen alan, arazi tipi, ilk rapor kaynağı ve detaylı açıklaması) ve Locations ile Causes tablolarıyla ilişkilerini içerir.
 
-!(https://placehold.co/600x300/E0E0E0/333333?text=Veritaban%C4%B1+%C5%9Eemas%C4%B1+Diyagram%C4%B1)
-(Yukarıdaki görsel, veritabanı şemasının bir Varlık İlişki Diyagramı (ERD) yer tutucusudur. Gerçek bir diyagram oluşturup buraya ekleyebilirsiniz.)
 
 Kurulum ve Veri Girişi
 Veritabanını Oluşturma:
